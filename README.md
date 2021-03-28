@@ -14,7 +14,10 @@ Look at the results:
 
                     FLAT
 month     rmse_train    rmse_test
+
 10-2011     3593,68       3418,44
+
 11-2011     3578,62       3852,07
+
 12-2011     3585,85       3760,87
 
