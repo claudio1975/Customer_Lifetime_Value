@@ -12,12 +12,7 @@ In this job Unsupervised Leaning are used to provide a low-dimensional represent
 
 Look at the results:
 
-                            FLAT
-month           rmse_train      rmse_test
+Comparison between Flat and feature engineering with dimensionality reduction
 
-10-2011         3593,68         3418,44
-
-11-2011         3578,62         3852,07
-
-12-2011         3585,85         3760,87
+![](images/results_with_dimensionality_reduction.png)
 
