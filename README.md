@@ -1,5 +1,7 @@
 # Unsupervised Learning applied to Customer Lifetime Value (CLV)
 
+![](https://wilsonprintingusa.com/wp-content/uploads/2015/02/Customer-Lifetime-Value-Wilson-Printing.jpg)
+
 The core business of Insurance Companies is to enable individuals and firms to protect themselves against rarely events paying a small premium compared to the eventually damage incurred.
 
 Customer Lifetime Value (CLV) evaluates the value of the customer for the Company, in other words, it’s the Net Present Value of the cash flows ascribed to the relationship with a customer. 
