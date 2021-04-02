@@ -29,3 +29,21 @@ Look at the clustering:
 
 ![](images/kmeans_3D.png)
 
+![](images/DBSCAN_2D.png)
+
+![](images/DBSCAN_3D.png)
+
+![](images/GMM_2D.png)
+
+![](images/GMM_3D.png)
+
+![](images/dendogram.png)
+
+![](images/hierarch_2D.png)
+
+![](images/hierarch_3D.png)
+
+
+
+
+
