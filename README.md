@@ -21,6 +21,10 @@ Look at the results:
 
 ![](images/claim_binned_results.png)
 
+### *Comparison between Flat model and other models built with dimensionality reduction only*
+
+![](images/prediction_with_dimensionality_red_only.png)
+
 ### *Comparison between Flat model and other models built with feature engineering from clustering*
 
 ![](images/results_with_clustering.png)
