@@ -18,6 +18,7 @@ Look at the results:
 
 ![](images/results_with_dimensionality_reduction.png)
 
+![](images/prediction_with_dimensionality_red_fe.png)
 
 ![](images/claim_binned_results.png)
 
