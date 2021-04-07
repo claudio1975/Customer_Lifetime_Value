@@ -16,7 +16,7 @@ Look at the results:
 
 ### *Comparison between Flat model and other models built with feature engineering from dimensionality reduction*
 
-![](images/results_with_dimensionality_reduction.png)
+![](images/results_with_dimensionality_reduction_mae.png)
 
 ![](images/prediction_with_dimensionality_red_fe.png)
 
