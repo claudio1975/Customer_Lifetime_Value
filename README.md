@@ -28,7 +28,6 @@ Look at the results:
 
 ### *Comparison between Flat model and other models built with feature engineering from clustering*
 
-![](images/results_with_clustering.png)
 
 Look at the clustering:
 
