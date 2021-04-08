@@ -20,8 +20,6 @@ Look at the results:
 
 ![](images/prediction_with_dimensionality_red_fe.png)
 
-![](images/claim_binned_results.png)
-
 ### *Comparison between Flat model and other models built with dimensionality reduction only*
 
 ![](images/prediction_with_dimensionality_red_only.png)
