@@ -12,6 +12,11 @@ Unsupervised Learning describes tasks that involves using a model to discover a 
 
 In this job Unsupervised Leaning are used to provide a low-dimensional representation of inputs and clustering numerical variables to provide a better portfolio analysis of customers. In both situations, Unsupervised Learning can be used as feature engineering to improve Machine Learning performances.
 
+### *Comparison between models to evaluate CLV*
+
+![](images/models.png)
+
+
 Look at the results:
 
 ### *Comparison between Flat model and other models built with feature engineering from dimensionality reduction*
