@@ -16,14 +16,13 @@ In this job Unsupervised Leaning are used to provide a low-dimensional represent
 
 ![](images/models.png)
 
-
 ### *Comparison between Flat model and other models built with feature engineering from dimensionality reduction*
 
 ![](images/prediction_fe_dim_reduction.png)
 
 ### *Comparison between Flat model and other models built with dimensionality reduction only*
 
-![](images/prediction_with_dimensionality_red_only.png)
+![](images/prediction_dim_reduction_only.png)
 
 ### *Comparison between Flat model and other models built with feature engineering from clustering*
 
