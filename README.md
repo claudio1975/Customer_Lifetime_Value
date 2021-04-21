@@ -26,8 +26,6 @@ In this job Unsupervised Leaning are used to provide a low-dimensional represent
 
 ### *Comparison between Flat model and other models built with feature engineering from clustering*
 
-Look at the clustering:
-
 ![](images/kmeans_2D.png)
 
 ![](images/kmeans_3D.png)
