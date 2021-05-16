@@ -40,9 +40,9 @@ In this job Unsupervised Leaning are used to provide a low-dimensional represent
 
 ![](images/dendogram.png)
 
-![](images/hierarch_2D.png)
+![](images/tsne_hc_2D.png)
 
-![](images/hierarch_3D.png)
+![](images/tsne_hc_3D.png)
 
 
 
