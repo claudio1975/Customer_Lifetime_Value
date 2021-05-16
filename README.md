@@ -30,9 +30,9 @@ In this job Unsupervised Leaning are used to provide a low-dimensional represent
 
 ![](images/tsne_kmeans_3D_v2.png)
 
-![](images/DBSCAN_2D.png)
+![](images/tsne_dbscan_2D.png)
 
-![](images/DBSCAN_3D.png)
+![](images/tsne_dbscan_3D.png)
 
 ![](images/GMM_2D.png)
 
