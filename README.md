@@ -14,9 +14,23 @@ In this job Unsupervised Leaning are used to provide a low-dimensional represent
 
 Go to the notebooks:
 
+Analysis
+
 -> [Exploratory Data Analysis](https://github.com/claudio1975/Customer_Lifetime_Value/blob/main/UL_CLV_EDA_OK2.ipynb)
+
 -> [Dimensionality Reduction Analysis](https://github.com/claudio1975/Customer_Lifetime_Value/blob/main/UL_CLV_dim_reduction_analysis_OK3.ipynb)
+
 -> [Clustering Analysis](https://github.com/claudio1975/Customer_Lifetime_Value/blob/main/UL_CLV_clustering_analysis_OK3.ipynb)
+
+Recap Experiments
+
+-> [Model Selection for CLV flat (baseline) prediction](https://github.com/claudio1975/Customer_Lifetime_Value/blob/main/UL_CLV_catch_up_models_rmse_OK3.ipynb)
+
+-> [CLV prediction using data from dimensionality reduction tools](https://github.com/claudio1975/Customer_Lifetime_Value/blob/main/UL_CLV_catch_up_dim_reduction_only_OK4.ipynb)
+
+-> [Data Augmentation of flat (baseline) model with features extracted from dimensionality reduction tools](https://github.com/claudio1975/Customer_Lifetime_Value/blob/main/UL_CLV_catch_up_fe_dim_reduction_OK4.ipynb)
+
+-> [CLV prediction using features from clustering](https://github.com/claudio1975/Customer_Lifetime_Value/blob/main/UL_CLV_catch_up_clustering_OK3.ipynb)
 
 ### *Comparison between ML models to evaluate CLV prediction*
 
