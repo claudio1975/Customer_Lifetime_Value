@@ -12,7 +12,11 @@ Unsupervised Learning describes tasks that involves using a model to discover a 
 
 In this job Unsupervised Leaning are used to provide a low-dimensional representation of inputs and clustering numerical variables to provide a better portfolio analysis of customers. In both situations, Unsupervised Learning can be used as feature engineering to improve Machine Learning performances.
 
-[Exploratory Data Analysis](https://github.com/claudio1975/Customer_Lifetime_Value/blob/main/UL_CLV_EDA_OK2.ipynb)
+Go to the notebooks:
+
+-> [Exploratory Data Analysis](https://github.com/claudio1975/Customer_Lifetime_Value/blob/main/UL_CLV_EDA_OK2.ipynb)
+-> [Dimensionality Reduction Analysis](https://github.com/claudio1975/Customer_Lifetime_Value/blob/main/UL_CLV_dim_reduction_analysis_OK3.ipynb)
+-> [Clustering Analysis](https://github.com/claudio1975/Customer_Lifetime_Value/blob/main/UL_CLV_clustering_analysis_OK3.ipynb)
 
 ### *Comparison between ML models to evaluate CLV prediction*
 
