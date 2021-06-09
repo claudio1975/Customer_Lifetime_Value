@@ -30,7 +30,25 @@ Recap Experiments
 
 -> [Data Augmentation of flat (baseline) model with features extracted from dimensionality reduction tools](https://github.com/claudio1975/Customer_Lifetime_Value/blob/main/UL_CLV_catch_up_fe_dim_reduction_OK4.ipynb)
 
--> [CLV prediction using features from clustering](https://github.com/claudio1975/Customer_Lifetime_Value/blob/main/UL_CLV_catch_up_clustering_OK3.ipynb)
+-> [Data Augmentation of flat (baseline) model with features extracted from clustering](https://github.com/claudio1975/Customer_Lifetime_Value/blob/main/UL_CLV_catch_up_clustering_OK3.ipynb)
+
+Notebooks for each tool:
+
+-> [Flat (baseline) model](https://github.com/claudio1975/Customer_Lifetime_Value/blob/main/UL_CLV_Flat_OK2.ipynb)
+
+-> [Principal Component Analysis](https://github.com/claudio1975/Customer_Lifetime_Value/blob/main/UL_CLV_PCA_OK.ipynb)
+
+-> [Autoencoder](https://github.com/claudio1975/Customer_Lifetime_Value/blob/main/UL_CLV_autoencoder_OK.ipynb)
+
+-> [Isomap](https://github.com/claudio1975/Customer_Lifetime_Value/blob/main/UL_CLV_isomap_OK.ipynb)
+
+-> [K-Means](https://github.com/claudio1975/Customer_Lifetime_Value/blob/main/UL_CLV_KMeans_OK.ipynb)
+
+-> [DBSCAN](https://github.com/claudio1975/Customer_Lifetime_Value/blob/main/UL_CLV_DBSCAN_OK.ipynb)
+
+-> [Gaussian Mixture Models](https://github.com/claudio1975/Customer_Lifetime_Value/blob/main/UL_CLV_GMM_OK.ipynb)
+
+-> [Hierarchical Clustering](https://github.com/claudio1975/Customer_Lifetime_Value/blob/main/UL_CLV_hierachical_OK.ipynb)
 
 ### *Comparison between ML models to evaluate CLV prediction*
 
