@@ -1,4 +1,4 @@
-# Unsupervised Learning applied to Customer Lifetime Value (CLV) 
+# Unsupervised Learning applied to the Customer Lifetime Value (CLV) 
 
 ![](https://wilsonprintingusa.com/wp-content/uploads/2015/02/Customer-Lifetime-Value-Wilson-Printing.jpg)
 
