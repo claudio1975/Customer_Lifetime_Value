@@ -28,7 +28,7 @@ Recap Experiments
 
 -> [CLV Modelling](https://github.com/claudio1975/Customer_Lifetime_Value/blob/main/UL_CLV_catch_up_models_rmse_OK3.ipynb)
 
--> [CLV prediction with reduced features space](https://github.com/claudio1975/Customer_Lifetime_Value/blob/main/UL_CLV_catch_up_dim_reduction_only_OK4.ipynb)
+-> [CLV prediction with reduced features space](https://github.com/claudio1975/Customer_Lifetime_Value/blob/main/UL_CLV_catch_up_dim_reduction_only_OK5.ipynb)
 
 -> [CLV prediction with augmented features space by dimensionality reduction](https://github.com/claudio1975/Customer_Lifetime_Value/blob/main/UL_CLV_catch_up_fe_dim_reduction_OK4.ipynb)
 
