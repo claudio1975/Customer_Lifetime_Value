@@ -26,13 +26,15 @@ Analysis
 
 Recap Experiments
 
--> [Model Selection for CLV flat (baseline) prediction](https://github.com/claudio1975/Customer_Lifetime_Value/blob/main/UL_CLV_catch_up_models_rmse_OK3.ipynb)
+-> [CLV Modelling](https://github.com/claudio1975/Customer_Lifetime_Value/blob/main/UL_CLV_catch_up_models_rmse_OK3.ipynb)
 
--> [CLV prediction using data from dimensionality reduction tools](https://github.com/claudio1975/Customer_Lifetime_Value/blob/main/UL_CLV_catch_up_dim_reduction_only_OK4.ipynb)
+-> [CLV prediction with reduced features space](https://github.com/claudio1975/Customer_Lifetime_Value/blob/main/UL_CLV_catch_up_dim_reduction_only_OK4.ipynb)
 
--> [Data Augmentation of flat (baseline) model with features extracted from dimensionality reduction tools](https://github.com/claudio1975/Customer_Lifetime_Value/blob/main/UL_CLV_catch_up_fe_dim_reduction_OK4.ipynb)
+-> [CLV prediction with augmented features space by dimensionality reduction](https://github.com/claudio1975/Customer_Lifetime_Value/blob/main/UL_CLV_catch_up_fe_dim_reduction_OK4.ipynb)
 
--> [Data Augmentation of flat (baseline) model with features extracted from clustering](https://github.com/claudio1975/Customer_Lifetime_Value/blob/main/UL_CLV_catch_up_clustering_OK3.ipynb)
+-> [CLV prediction with augmented features space by clustering](https://github.com/claudio1975/Customer_Lifetime_Value/blob/main/UL_CLV_catch_up_clustering_OK3.ipynb)
+
+-> [Clustering as Portfolio Analysis](https://github.com/claudio1975/Customer_Lifetime_Value/blob/main/UL_CLV_catch_up_clustering_viz_OK.ipynb)
 
 Notebooks for each tool:
 
