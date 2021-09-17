@@ -20,7 +20,7 @@ Analysis
 
 -> [Exploratory Data Analysis](https://github.com/claudio1975/Customer_Lifetime_Value/blob/main/UL_CLV_EDA_OK2.ipynb)
 
--> [Dimensionality Reduction Analysis](https://github.com/claudio1975/Customer_Lifetime_Value/blob/main/UL_CLV_dim_reduction_analysis_OK3.ipynb)
+-> [Dimensionality Reduction Analysis](https://github.com/claudio1975/Customer_Lifetime_Value/blob/main/UL_CLV_dim_reduction_analysis_OK4.ipynb)
 
 -> [Clustering Analysis](https://github.com/claudio1975/Customer_Lifetime_Value/blob/main/UL_CLV_clustering_analysis_OK3.ipynb)
 
